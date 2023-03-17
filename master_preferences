@@ -1,0 +1,38 @@
+﻿{
+	"distribution": {
+		"create_all_shortcuts": true,
+		"do_not_launch_chrome": false,
+		"import_bookmarks": false,
+		"import_history": false,
+		"import_home_page": false,
+		"import_search_engine": false,
+		"make_chrome_default": false,
+		"make_chrome_default_for_user": false,
+		"ping_delay": 40,
+		"require_eula": false,
+		"show_welcome_page": false,
+		"skip_first_run_ui": true,
+		"system_level": true,
+		"verbose_logging": false,
+		"welcome_page_on_os_upgrade_enabled": false,
+        "suppress_first_run_default_browser_prompt": true
+	},
+	"homepage_is_newtabpage": false,
+	"homepage": "https://123.twinkstar.cn",
+	"session" : {
+			"restore_on_startup" : 4,
+			"startup_urls" : ["https://123.twinkstar.cn/"]
+	},
+	"first_run_tabs": [
+		"chrome://newtab/",
+		"https://123.twinkstar.cn/"
+	],
+	"extensions" : {
+		"pinned_extensions": [
+			"glfpjhjlbokpjbplodkieopegemieaib",
+			"fhfaaicfgcbbkelpdkeahlldoajimeee",
+			"aabflhbdkkkbohdnbcfabkncmofffmpf",
+			"lmefflijdkfmckbpmmghhpjabpjgjhli"
+		]
+	}
+}
